@@ -13,8 +13,6 @@ The app allows users to browse pizzas, manage their cart, place orders, and trac
 
 ## 📸 Screenshots
 
-> Add these images inside a `/screenshots` folder in your project
-
 ### 🏠 Home
 
 ![Home](./screenshots/home.png)
